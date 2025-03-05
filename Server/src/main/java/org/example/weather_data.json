@@ -1,0 +1,135 @@
+[
+    {
+        "latitude": 40.7128,
+        "location": "New York",
+        "forecast": [
+            {
+                "condition": "Sunny",
+                "temperature": 25
+            },
+            {
+                "condition": "Rainy",
+                "temperature": 18
+            },
+            {
+                "condition": "Cloudy",
+                "temperature": 22
+            }
+        ],
+        "longitude": -74.006
+    },
+    {
+        "latitude": 100,
+        "location": "Madrid",
+        "forecast": [
+            {
+                "condition": "Rainy",
+                "temperature": 23
+            },
+            {
+                "condition": "Hot",
+                "temperature": 30
+            },
+            {
+                "condition": "Sunny",
+                "temperature": 25
+            }
+        ],
+        "longitude": 123.33
+    },
+    {
+        "latitude": -120,
+        "location": "China",
+        "forecast": [
+            {
+                "condition": "Rainy",
+                "temperature": 10
+            },
+            {
+                "condition": "Sunny",
+                "temperature": 11
+            },
+            {
+                "condition": "Rainy",
+                "temperature": 13
+            }
+        ],
+        "longitude": 20
+    },
+    {
+        "latitude": 34.0522,
+        "location": "Los Angeles",
+        "forecast": [
+            {
+                "condition": "Sunny",
+                "temperature": 30
+            },
+            {
+                "condition": "Sunny",
+                "temperature": 28
+            },
+            {
+                "condition": "Cloudy",
+                "temperature": 26
+            }
+        ],
+        "longitude": -118.2437
+    },
+    {
+        "latitude": 10,
+        "location": "Brasov",
+        "forecast": [
+            {
+                "condition": "Sunny",
+                "temperature": 10
+            },
+            {
+                "condition": "Snow",
+                "temperature": 2
+            },
+            {
+                "condition": "Rain",
+                "temperature": 5
+            }
+        ],
+        "longitude": 20
+    },
+    {
+        "latitude": 48.8566,
+        "location": "Paris",
+        "forecast": [
+            {
+                "condition": "Sunny",
+                "temperature": 15
+            },
+            {
+                "condition": "Rainy",
+                "temperature": 14
+            },
+            {
+                "condition": "Sunny",
+                "temperature": 17
+            }
+        ],
+        "longitude": 2.3522
+    },
+    {
+        "latitude": -100,
+        "location": "India",
+        "forecast": [
+            {
+                "condition": "Rainy",
+                "temperature": 10
+            },
+            {
+                "condition": "Sunny",
+                "temperature": 12
+            },
+            {
+                "condition": "Sunny",
+                "temperature": 13
+            }
+        ],
+        "longitude": 100
+    }
+]
